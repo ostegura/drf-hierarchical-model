@@ -1,0 +1,7 @@
+Third-party apps:
+- rest_framework
+- mptt
+
+Superuser:
+login: admin
+password: admin
